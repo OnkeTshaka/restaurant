@@ -2,7 +2,7 @@
 
 ### Clone the repo onto your local machine
 ``` 
-git clone https:github.com/OnkeTshaka/restaurant.git review 
+git clone https://github.com/OnkeTshaka/restaurant.git review 
 
 ```
 
