@@ -10,7 +10,7 @@ git clone https://github.com/OnkeTshaka/restaurant.git review
 
 ### Navigate to the main directory of the project and open visual studio code with the code . shortcut
 ``` 
-cd restaurant && code .
+cd review && code .
 
 ```
 
